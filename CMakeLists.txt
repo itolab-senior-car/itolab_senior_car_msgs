@@ -16,6 +16,13 @@ find_package(catkin REQUIRED COMPONENTS
    Centroids.msg
    CloudCluster.msg
    CloudClusterArray.msg
+   DetectedObject.msg
+   DetectedObjectArray.msg
+   DTLane.msg
+   Lane.msg
+   LaneArray.msg
+   Waypoint.msg
+   WaypointState.msg
  )
 
  generate_messages(
