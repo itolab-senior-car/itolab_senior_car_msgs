@@ -16,11 +16,16 @@ find_package(catkin REQUIRED COMPONENTS
    Centroids.msg
    CloudCluster.msg
    CloudClusterArray.msg
+   ControlCommand.msg
+   ControlCommandStamped.msg
    DetectedObject.msg
    DetectedObjectArray.msg
    DTLane.msg
+   JoyCon.msg
    Lane.msg
    LaneArray.msg
+   Servo.msg
+   VehicleStatus.msg
    Waypoint.msg
    WaypointState.msg
  )
