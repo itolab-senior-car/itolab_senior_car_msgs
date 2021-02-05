@@ -24,6 +24,8 @@ find_package(catkin REQUIRED COMPONENTS
    JoyCon.msg
    Lane.msg
    LaneArray.msg
+   RegionObserver.msg
+   RegionObserverArray.msg
    Servo.msg
    VehicleStatus.msg
    Waypoint.msg
